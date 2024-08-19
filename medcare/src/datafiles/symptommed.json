@@ -1,0 +1,300 @@
+[
+    {
+        "Disease": "Drug Reaction",
+        "Medicines": [
+            "Cetirizine (Zyrtec)",
+            "Fexofenadine (Allegra)"
+        ]
+        
+    },
+    {
+        "Disease": "Malaria",
+        "Medicines": [
+            "Chloroquine Phosphate",
+            "Quinine Sulphate",
+            "Primaquine Phosphate"
+        ]
+    },
+    {
+        "Disease": "Allergy",
+        "Medicines": [
+            "Cetirizine",
+            "Desloratadine",
+            "Loratadine"
+        ]
+    },
+    {
+        "Disease": "Hypothyroidism",
+        "Medicines": [
+            "Levothyroxine"
+        ]
+    },
+    {
+        "Disease": "Psoriasis",
+        "Medicines": [
+            "Vitamin A derivative",
+            "Anti-inflammatory",
+            "Immunosuppressive drug"
+        ]
+    },
+    {
+        "Disease": "GERD",
+        "Medicines": [
+            "Antacid",
+            "Proton-pump inhibitor",
+            "Antidiarrhoeal"
+        ]
+    },
+    {
+        "Disease": "Chronic cholestasis",
+        "Medicines": [
+            "Amoxicillin",
+            "Advil",
+            "Minocycline"
+        ]
+    },
+    {
+        "Disease": "Hepatitis A",
+        "Medicines": [
+            "Acetaminophen",
+            "Hepatitis Immuno Globulin"
+        ]
+    },
+    {
+        "Disease": "Osteoarthritis",
+        "Medicines": [
+            "Acetaminophen",
+            "Nonsteroidal anti-inflammatory drugs",
+            "Duloxetine"
+        ]
+    },
+    {
+        "Disease": "(Vertigo) Paroxysmal Positional Vertigo",
+        "Medicines": [
+            "Epley maneuver"
+        ]
+    },
+    {
+        "Disease": "Hypoglycemia",
+        "Medicines": [
+            "Glucagon"
+        ]
+    },
+    {
+        "Disease": "Acne",
+        "Medicines": [
+            "Apply Apple Cider Vinegar",
+            "Zinc Supplements"
+        ]
+    },
+    {
+        "Disease": "Diabetes",
+        "Medicines": [
+            "Insulin",
+            "Statin",
+            "Anticoagulant"
+        ]
+    },
+    {
+        "Disease": "Impetigo",
+        "Medicines": [
+            "Penicillin",
+            "Antibiotics"
+        ]
+    },
+    {
+        "Disease": "Hypertension",
+        "Medicines": [
+            "ACE inhibitor",
+            "Diuretic",
+            "Vasodilator"
+        ]
+    },
+    {
+        "Disease": "Peptic ulcer disease",
+        "Medicines": [
+            "Antibiotics",
+            "Antidiarrhoeal",
+            "Penicillin"
+        ]
+    },
+    {
+        "Disease": "Dimorphic hemorrhoids (piles)",
+        "Medicines": [
+            "Proctofoam-HC Foam",
+            "Hydrocortisone Cream",
+            "Caladryl Lotion"
+        ]
+    },
+    {
+        "Disease": "Common Cold",
+        "Medicines": [
+            "Analgesic",
+            "Antihistamine",
+            "Decongestant"
+        ]
+    },
+    {
+        "Disease": "Chicken pox",
+        "Medicines": [
+            "Analgesic",
+            "Antihistamine"
+        ]
+    },
+    {
+        "Disease": "Cervical spondylosis",
+        "Medicines": [
+            "Nonsteroidal anti-inflammatory drugs",
+            "Corticosteroids",
+            "Muscle Relaxants"
+        ]
+    },
+    {
+        "Disease": "Hyperthyroidism",
+        "Medicines": [
+            "Radioactive iodine",
+            "Methimazole (Tapazole)/Propylthiouracil"
+        ]
+    },
+    {
+        "Disease": "Urinary tract infection",
+        "Medicines": [
+            "Antibiotics",
+            "Penicillin"
+        ]
+    },
+    {
+        "Disease": "Varicose veins",
+        "Medicines": [
+            "Laser Therapy",
+            "Sclerotherapy"
+        ]
+    },
+    {
+        "Disease": "AIDS",
+        "Medicines": [
+            "Antiretroviral regimens (ARVs)",
+            "HIV antiviral"
+        ]
+    },
+    {
+        "Disease": "Paralysis (brain hemorrhage)",
+        "Medicines": [
+            "Craniotomy",
+            "Physical Therapy"
+        ]
+    },
+    {
+        "Disease": "Typhoid",
+        "Medicines": [
+            "Ciprofloxacin",
+            "Ceftriaxone"
+        ]
+    },
+    {
+        "Disease": "Hepatitis B",
+        "Medicines": [
+            "Entecavir (Baraclude)",
+            "Tenofovir (Viread)"
+        ]
+    },
+    {
+        "Disease": "Fungal infection",
+        "Medicines": [
+            "Clotrimazole",
+            "Econazole"
+        ]
+    },
+    {
+        "Disease": "Hepatitis C",
+        "Medicines": [
+            "Simeprevir",
+            "Sofosbuvir",
+            "Ribavirin"
+        ]
+    },
+    {
+        "Disease": "Migraine",
+        "Medicines": [
+            "Sumatriptan (Imitrex)",
+            "Rizatriptan (Maxalt)"
+        ]
+    },
+    {
+        "Disease": "Bronchial Asthma",
+        "Medicines": [
+            "Simeprevir",
+            "Sofosbuvir"
+        ]
+    },
+    {
+        "Disease": "Alcoholic hepatitis",
+        "Medicines": [
+            "Visit doctor immediately"
+        ]
+    },
+    {
+        "Disease": "Jaundice",
+        "Medicines": [
+            "Visit doctor immediately"
+        ]
+    },
+    {
+        "Disease": "Hepatitis E",
+        "Medicines": [
+            "Ribavirin",
+            "Pegylated interferon alfa"
+        ]
+    },
+    {
+        "Disease": "Dengue",
+        "Medicines": [
+            "Visit doctor immediately"
+        ]
+    },
+    {
+        "Disease": "Hepatitis D",
+        "Medicines": [
+            "Pegylated interferon alfa"
+        ]
+    },
+    {
+        "Disease": "Heart attack",
+        "Medicines": [
+            "Aspirin",
+            "Nitroglycerin",
+            "Beta Blockers"
+        ]
+    },
+    {
+        "Disease": "Pneumonia",
+        "Medicines": [
+            "Macrolides",
+            "Oral antibiotics"
+        ]
+    },
+    {
+        "Disease": "Arthritis",
+        "Medicines": [
+            "Hydrotherapy",
+            "Surgery"
+        ]
+    },
+    {
+        "Disease": "Gastroenteritis",
+        "Medicines": [
+            "Imodium"
+        ]
+    },
+    {
+        "Disease": "Tuberculosis",
+        "Medicines": [
+            "Oral rehydration drinks"
+        ]
+    }
+]
+
+
+
+
+

@@ -1,0 +1,59 @@
+{
+    "doctors": [
+      {
+        "name": "Dr. John Smith",
+        "address": "123 Main St, Delhi",
+        "city": "Delhi",
+        "speciality": "Physician"
+      },
+      {
+        "name": "Dr. Emily Johnson",
+        "address": "456 Elm St, Mumbai",
+        "city": "Mumbai",
+        "speciality": "Physician"
+      },
+      {
+        "name": "Dr. Michael Lee",
+        "address": "789 Oak St, Chennai",
+        "city": "Chennai",
+        "speciality": "Physician"
+      },
+      {
+        "name": "Dr. Sarah Patel",
+        "address": "321 Maple Ave, Delhi",
+        "city": "Delhi",
+        "speciality": "HeartSpecialist"
+      },
+      {
+        "name": "Dr. David Brown",
+        "address": "567 Pine St, Mumbai",
+        "city": "Mumbai",
+        "speciality": "HeartSpecialist"
+      },
+      {
+        "name": "Dr. Priya Gupta",
+        "address": "890 Cedar St, Chennai",
+        "city": "Chennai",
+        "speciality": "HeartSpecialist"
+      },
+      {
+        "name": "Ram Babu",
+        "address": "456 Elm St, Mumbai",
+        "city": "Mumbai",
+        "speciality": "Physician"
+      },
+      {
+        "name": "Ali brother",
+        "address": "456 Elm St, Mumbai",
+        "city": "Mumbai",
+        "speciality": "Physician"
+      },
+      {
+        "name": "Ayush",
+        "address": "456 Elm St, Mumbai",
+        "city": "Mumbai",
+        "speciality": "Physician"
+      }
+    ]
+  }
+  
